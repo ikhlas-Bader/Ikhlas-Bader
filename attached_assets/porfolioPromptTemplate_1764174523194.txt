@@ -1,0 +1,70 @@
+Create a **complete, modern, responsive portfolio website** in a **single HTML file** that contains all HTML, CSS, and JavaScript. Do **not** use any external files, libraries, or CDNs. The code should be clean, professional, and ready to use. Include **comments** explaining each section so it’s easy to customize.
+
+**Personal Information Placeholders (replace these with your info):**
+- Full Name: [Ikhlas Bader]
+- Profession/Title: [YOUR TITLE, e.g., Software Engineer]
+- Short Bio: [YOUR BIO]
+- Email: [248025@ppu.edu.ps]
+- Phone: [0593819330]
+- Social links: [LinkedIn, GitHub, Twitter, etc.]
+- Projects: [Project Title, Description, Image URL, Project Link] (3-5 examples)
+- Skills: [Skill Name & Proficiency %]
+
+**Website Requirements:**
+
+1. **Header / Navigation**
+   - Logo or Name
+   - Navigation links: Home, About, Skills, Projects, Contact
+   - Sticky and responsive
+
+2. **Hero Section**
+   - Greeting text: “Hi, I’m [YOUR NAME]”
+   - Short profession tagline: “[YOUR TITLE]”
+   - Call-to-action button linking to Contact section
+
+3. **About Section**
+   - Include short bio
+   - Profile image (use placeholder if none)
+
+4. **Skills Section**
+   - Display skills with animated progress bars or circular charts
+   - Include at least 4-6 skills
+
+5. **Projects Section**
+   - Grid of 3-5 project cards
+   - Each card includes: Project image, title, description, link to project
+   - Hover effects: scale, shadow, or reveal
+
+6. **Contact Section**
+   - Contact form: Name, Email, Message
+   - JavaScript validation: fields cannot be empty, valid email format
+   - Submit button triggers email link (mailto)
+
+7. **Footer**
+   - Social media icons (LinkedIn, GitHub, Twitter)
+   - Copyright text
+   - Smooth scroll back-to-top button
+
+8. **Design & UX**
+   - Clean, modern, minimalistic
+   - Fully responsive for mobile, tablet, desktop
+   - Smooth animations and transitions
+   - Optional dark/light theme toggle with JavaScript
+   - Use CSS variables for easy customization
+
+9. **JavaScript Functionality**
+   - Navigation scroll effect (highlight active section)
+   - Animated skill bars
+   - Project card hover interactions
+   - Contact form validation
+   - Theme toggle (dark/light mode)
+
+10. **Extra Requirements**
+   - Semantic HTML5
+   - No external resources, everything embedded in the single HTML file
+   - Comments in HTML, CSS, and JS to guide customization
+   - Optimized for performance and readability
+
+**Output Format:**
+- Provide the **complete HTML file** content ready to copy-paste
+- Include **inline CSS and JavaScript** inside `<style>` and `<script>` tags
